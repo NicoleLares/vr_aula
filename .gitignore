@@ -1,0 +1,8 @@
+# Proyecto estático: no necesita Node ni archivos generados.
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+.env
+.env.*
+node_modules/
